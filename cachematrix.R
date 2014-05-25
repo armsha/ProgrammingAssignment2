@@ -3,7 +3,7 @@
 ##      - makeCacheMatrix
 ##              - Input: A square matrix with numeric elements
 ##              - Output: A list of functions for storing and
-##              -         retrieving the input matrix and the 
+##                        retrieving the input matrix and the 
 ##                        corresponding inverse
 ##      - cacheSolve
 ##              - Input: A square matrix with numeric elements,
