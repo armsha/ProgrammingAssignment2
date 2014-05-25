@@ -4,7 +4,7 @@
 ##              - Input: A square matrix with numeric elements
 ##              - Output: A list of functions for storing and
 ##                        retrieving the input matrix and the 
-##                        corresponding inverse in and from cache
+##                        corresponding inverse using cache memory
 ##      - cacheSolve
 ##              - Input: A square matrix with numeric elements,
 ##                       ev. other input is ignored
