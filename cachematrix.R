@@ -42,5 +42,5 @@ cacheSolve <- function(x, ...) {
         data <- x$get() ## Get the matrix
         m <- solve(data, ...) ## Compute inverse
         x$setinverse(m) ## Store in cache memory
-        m # Return inverse
+        m ## Return inverse
 }
